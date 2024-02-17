@@ -17,3 +17,7 @@ Consulta el pseudocódigo y el diagrama de flujo para obtener una comprensión d
 Accede a la versión prototipo de la aplicación a través del siguiente enlace.
 
 [Ver Prototipo de la App](https://mockitt.wondershare.com/proto/qGiDs7VYs90c9bVhSl0LSU/sharing?view_mode=read_only)
+
+## Lecciones aprendidas
+
+https://padlet.com/miguelbedoy23/que-aprendimos-seguimientos-1-algoritmos-7vugoyc15rsy5vwl
